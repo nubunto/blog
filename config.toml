@@ -1,0 +1,27 @@
+baseurl = "https://blog.nubunto.co/"
+title = "Programatically Incorrect"
+theme = "nofancy"
+languageCode = "en-us"
+copyright = "My Name"
+disqusShortname = "XXX"
+googleAnalytics = "XXX"
+
+[Author]
+    name = "Bruno Panuto"
+    profile = "https://google.com/+XXX"
+
+[Taxonomies]
+    tag = "tags"
+
+[Params]
+    intro = true
+    headline = "Programatically Incorrect"
+    description = "Ideas on software, life, both and none"
+    github = "https://github.com/nubunto"
+    gitlab = "https://gitlab.com/nubunto"
+    linkedin = "https://linkedin.com/in/bruno-luis-panuto-silva-85b59b5a/"
+    twitter = "https://twitter.com/panuto_"
+    email = "bl.panuto@gmail.com"
+    shareTwitter = true
+    shareFacebook = true
+
